@@ -3,7 +3,6 @@ const BackboneModalView = Backbone.Marionette.View.extend({
   className: 'modal fade hidden',
   id: 'backbone-modal',
   initialize: function (options) {
-    console.log(options)
     this.template = options.template
     this.render()
   },
