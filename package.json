@@ -1,0 +1,31 @@
+{
+  "name": "backbone_modal_view",
+  "version": "0.0.1",
+  "description": "Backbone + Bootstrap Modal View",
+  "main": "index.js",
+  "repository": "https://github.com/shintech/backbone_modal_view.git",
+  "author": "Michael Prather",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "standard"
+  },
+  "standard": {
+    "globals": [
+      "it",
+      "describe",
+      "beforeEach",
+      "afterEach",
+      "before",
+      "after",
+      "Backbone",
+      "_",
+      "$"
+    ]
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "standard": "^10.0.2"
+  }  
+}
