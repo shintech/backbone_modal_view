@@ -1,6 +1,6 @@
 {
   "name": "backbone_modal_view",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Backbone + Bootstrap Modal View",
   "main": "index.js",
   "repository": "https://github.com/shintech/backbone_modal_view.git",
